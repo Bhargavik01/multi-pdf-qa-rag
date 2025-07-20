@@ -1,0 +1,12 @@
+groq
+pinecone
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-pinecone
+langchain-groq
+langchain-openai
+pypdf
+python-dotenv
+openai
