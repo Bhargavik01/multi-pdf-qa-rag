@@ -1,7 +1,7 @@
-# multi-pdf-qa-rag
+## Rapid Q&A on multiple PDFs using
 LangChain + Pinecone + OpenAI Multiple PDF QA project 
 
-# PDF QA Chatbot with LangChain, Pinecone, and OpenAI
+## PDFs QA Chatbot with LangChain, Pinecone, and OpenAI
 
 This project loads multiple PDFs, splits and embeds their content, stores embeddings in Pinecone, and allows querying using GPT-4o via LangChain.
 
